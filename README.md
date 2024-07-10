@@ -1,5 +1,9 @@
 # RA2111047010144_Factwise_BE
-Coding Round Solutions for Factwise Placements.
+Coding Round Solutions for Factwise Placements.\
+Name: Annarhysa Albert\
+Reg No: RA2111047010144\
+Degree,Course: BTech Artificial Intelligence\
+College: SRMIST Ktr
 
 ## Question 1
 
