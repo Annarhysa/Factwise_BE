@@ -1,0 +1,11 @@
+{
+    "0e7a8e17-f598-4e39-80a7-4cc1b9624383": {
+        "id": "0e7a8e17-f598-4e39-80a7-4cc1b9624383",
+        "name": "Board 1",
+        "description": "Description of Board 1",
+        "team_id": "4e2da446-41d3-457d-a0c5-666058c416f4",
+        "creation_time": "2024-07-15T12:00:00",
+        "status": "OPEN",
+        "tasks": []
+    }
+}

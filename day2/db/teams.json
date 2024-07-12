@@ -1,0 +1,10 @@
+{
+    "4e2da446-41d3-457d-a0c5-666058c416f4": {
+        "id": "4e2da446-41d3-457d-a0c5-666058c416f4",
+        "name": "Team A",
+        "description": "Description of Team A",
+        "admin": "admin_id",
+        "creation_time": "2024-07-12T09:24:29.217835",
+        "members": []
+    }
+}
